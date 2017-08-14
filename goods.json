@@ -1,0 +1,46 @@
+[
+  {
+    "brand":"Samsung",
+    "model":"s7"
+  },
+  {
+    "brand":"Samsung",
+    "model":"s8"
+  },
+  {
+    "brand":"Samsung",
+    "model":"j7"
+  },
+  {
+    "brand":"Samsung",
+    "model":"j5"
+  },
+  {
+    "brand":"LG",
+    "model":"g3"
+  },
+  {
+    "brand":"LG",
+    "model":"P713"
+  },
+  {
+    "brand":"iPhone",
+    "model":"6"
+  },
+  {
+    "brand":"iPhone",
+    "model":"6s"
+  },
+  {
+    "brand":"iPhone",
+    "model":"7"
+  },
+  {
+    "brand":"iPhone",
+    "model":"7s"
+  },
+  {
+    "brand":"Xiaomi",
+    "model":"redmi 4"
+  }
+]
